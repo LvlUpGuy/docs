@@ -13,4 +13,10 @@ This sweeping process requires a minimum amount of Bitcoin be placed in your Bit
 
 Every deposit made to your BitClout buy wallet must be at least the minimum amount required to conduct this sweeping process.
 
-If you make a deposit under the minimum amount - making another deposit will **not** work. Each deposit **must** be at least for the minimum amount described on the Buy Bitclout page. This is due to technical limitations in how the Bitcoin blockchain interacts with this process and is outside of the control of the BitClout developers.
+If you make a deposit under the minimum amount - making another deposit will **not** work.
+
+Each deposit **must** be at least for the minimum amount described on the Buy Bitclout page.
+
+This is due to technical limitations in how the Bitcoin blockchain interacts with this process and is outside of the control of the BitClout developers.
+
+If you have made a deposit that did not meet this minimum requirement you may find further assistance to resolving your issue in this document below.
